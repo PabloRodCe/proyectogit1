@@ -9,5 +9,8 @@ package proyectogit1;
  * @author Pablo Rod
  */
 public class persona {
+    private int codigo;
+    private String nombre;
+    private String dirrecion;
     
 }
