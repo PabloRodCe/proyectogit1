@@ -8,10 +8,6 @@ package proyectogit1;
  *
  * @author Pablo Rod
  */
-public class clientes {
-
-    public clientes() {
-    }
-    
+public class PabloRod {
     
 }
